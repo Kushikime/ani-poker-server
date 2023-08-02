@@ -21,8 +21,10 @@ ani-poker-server is a pet project aiming to create a robust and scalable web pok
 
 2. Install dependencies:
 
-```cd ani-poker-server
-  npm install```
+```
+cd ani-poker-server
+npm install
+```
 
 ## Configuration
 
@@ -34,9 +36,7 @@ ani-poker-server is a pet project aiming to create a robust and scalable web pok
 
 ```npm run start:dev```
 
-2. For production, build the project:
-
-and then start the server:
+2. For production, build the project and then start the server:
 
 ```npm run start:prod```
 
